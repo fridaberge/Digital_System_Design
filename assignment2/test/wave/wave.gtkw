@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Sat Feb  1 10:27:55 2025
+[*]
+[dumpfile] "/uio/hume/student-u28/fridatbe/IN3160/oblig2/test/decoder_case.ghw"
+[dumpfile_mtime] "Sat Feb  1 10:18:05 2025"
+[dumpfile_size] 465
+[savefile] "/uio/hume/student-u28/fridatbe/IN3160/oblig2/test/wave/wave.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-17.938803 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 273
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+#{top.decoder_case.inp[1:0]} top.decoder_case.inp[1] top.decoder_case.inp[0]
+@22
+#{top.decoder_case.outp[3:0]} top.decoder_case.outp[3] top.decoder_case.outp[2] top.decoder_case.outp[1] top.decoder_case.outp[0]
+[pattern_trace] 1
+[pattern_trace] 0

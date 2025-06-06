@@ -1,0 +1,5 @@
+v 4
+file / "/uio/hume/student-u28/fridatbe/IN3160/oblig2/test/../src/decoder_ent.vhd" "e2dd21093f5b6221785123ac02278c7073915601" "20250201112309.444":
+  entity decoder at 3( 74) + 0 on 11;
+file / "/uio/hume/student-u28/fridatbe/IN3160/oblig2/test/../src/decoder_select.vhd" "d1b117b50abaf658561710a48ad084db2c4eea9c" "20250201112309.444":
+  architecture rtl of decoder at 4( 203) + 0 on 12;
