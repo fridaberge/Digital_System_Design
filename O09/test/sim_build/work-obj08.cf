@@ -1,0 +1,7 @@
+v 4
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O09/test/../src/grayscale.vhd" "0035dd273fa5001c16439fafa284fa5dbe4730a0" "20250409145547.276":
+  entity grayscale at 1( 0) + 0 on 11;
+  architecture rtl of grayscale at 17( 415) + 0 on 12;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O09/test/../src/OG_grayscale.vhd" "6b26a28cbc9fd2808d3e704bce7ea558b474a5ea" "20250409145546.840":
+  entity og_grayscale at 1( 0) + 0 on 4;
+  architecture rtl of og_grayscale at 17( 421) + 0 on 4;

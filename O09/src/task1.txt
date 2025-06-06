@@ -1,0 +1,13 @@
+TASK 1
+
+Q1: the sum of 8 bits a and 8 bits b will give an answer of 
+    9 bits
+Q2: the product of two 8 bits numbers a and b will give an answer of 
+    16 bits
+Q3: adding a,b and c with 8 bits will give a result with 
+    9 bits
+Q4: the sum of four 8 bits numbers gives a result of
+    10 bits
+    multiplying the sum with an 8 bits number e gives a result of
+    18 bits
+
