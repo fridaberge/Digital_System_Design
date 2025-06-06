@@ -1,0 +1,7 @@
+v 4
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O03/test/../src/delay.vhd" "6056b0cf71adf1b700814f87c19d35416a41d6cd" "20250212103038.912":
+  entity delay at 3( 19) + 0 on 15;
+  architecture rtl of delay at 16( 311) + 0 on 16;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O03/test/../src/variables_vs_signals.vhd" "a6b952d799970ddfb4b68ca6bd7c3c047ac661a7" "20250204135010.374":
+  entity variables_vs_signals at 1( 0) + 0 on 13;
+  architecture dataflow of variables_vs_signals at 11( 197) + 0 on 14;
