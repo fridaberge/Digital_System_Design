@@ -1,0 +1,19 @@
+v 4
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O06/test/../src/self_test_system.vhd" "0d3a443ab6c99dab8c5c929796ad014fe80b1431" "20250307105820.549":
+  entity self_test_system at 1( 0) + 0 on 13;
+  architecture rtl of self_test_system at 19( 418) + 0 on 14;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O06/test/../src/seg7ctrl.vhd" "c4f05c4aa90c79fb4b3a307581d9e1c6c9441432" "20250307105820.142":
+  entity seg7ctrl at 1( 0) + 0 on 4;
+  architecture rtl of seg7ctrl at 22( 568) + 0 on 4;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O06/test/../src/bin2ssd_test.vhd" "c2e966e52098a0d9c578c26b38e34b71c13f2043" "20250307105820.142":
+  entity bin2ssd_test at 1( 0) + 0 on 4;
+  architecture rtl of bin2ssd_test at 15( 270) + 0 on 4;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O06/test/../src/seg7_pkg.vhd" "bfb73bb631a3561fc4036f5106a8bcc8e967d5b0" "20250307105820.549":
+  package seg7_pkg at 2( 1) + 0 on 11 body;
+  package body seg7_pkg at 11( 243) + 0 on 12;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O06/test/../src/seg7ctrl_arch.vhd" "b2ecccf2e04461b43bb2a3ce7849b5290995c047" "20250307105820.549":
+  entity seg7ctrl_arch at 1( 0) + 0 on 17;
+  architecture rtl of seg7ctrl_arch at 21( 544) + 0 on 18;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O06/test/../src/self_test_unit.vhd" "e3707bbb0ca9bcd0b5832e765735caecca59783f" "20250307105820.549":
+  entity self_test_unit at 1( 0) + 0 on 15;
+  architecture rtl of self_test_unit at 23( 536) + 0 on 16;
