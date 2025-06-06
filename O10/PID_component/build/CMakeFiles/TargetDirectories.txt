@@ -1,0 +1,3 @@
+/uio/hume/student-u28/fridatbe/IN3160/assignments/O10/PID_component/build/CMakeFiles/PID_component.elf.dir
+/uio/hume/student-u28/fridatbe/IN3160/assignments/O10/PID_component/build/CMakeFiles/edit_cache.dir
+/uio/hume/student-u28/fridatbe/IN3160/assignments/O10/PID_component/build/CMakeFiles/rebuild_cache.dir
