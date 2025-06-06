@@ -1,0 +1,4 @@
+v 4
+file "/uio/hume/student-u28/fridatbe/IN3160/oblig1/tb/" "../src/first.vhd" "382c2ea79180024850a930ed2bad9f5ee6cc67d5" "20250130171001.755":
+  entity first at 1( 0) + 0 on 11;
+  architecture rtl of first at 21( 729) + 0 on 12;

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Jan 30 17:09:29 2025
+# Process ID: 749319
+# Current directory: /uio/hume/student-u28/fridatbe/IN3160/oblig1/project_2/project_2.runs/impl_1
+# Command line: vivado -log FIRST.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source FIRST.tcl -notrace
+# Log file: /uio/hume/student-u28/fridatbe/IN3160/oblig1/project_2/project_2.runs/impl_1/FIRST.vdi
+# Journal file: /uio/hume/student-u28/fridatbe/IN3160/oblig1/project_2/project_2.runs/impl_1/vivado.jou
+# Running On        :theoden.ifi.uio.no
+# Platform          :unknown
+# Operating System  :unknown
+# Processor Detail  :Intel(R) Core(TM) i5-14500
+# CPU Frequency     :882.205 MHz
+# CPU Physical cores:14
+# CPU Logical cores :20
+# Host memory       :32983 MB
+# Swap memory       :10737 MB
+# Total Virtual     :43721 MB
+# Available Virtual :35739 MB
+#-----------------------------------------------------------
+source FIRST.tcl -notrace
