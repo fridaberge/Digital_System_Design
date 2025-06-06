@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1743441887" />
+    <testcase name="main_test" classname="tb_pdm" file="/uio/hume/student-u28/fridatbe/IN3160/assignments/O07/test/tb_pdm.py" lineno="138" time="2.236551284790039" sim_time_ns="333840.001" ratio_time="149265.524680933" />
+  </testsuite>
+</testsuites>

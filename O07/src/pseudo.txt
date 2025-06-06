@@ -1,0 +1,37 @@
+timer
+counter
+max_on
+min_off
+
+function timer:
+    if timer = 0
+        return
+    timer = timer - 1
+
+function counter:
+    if PDM_out = 1
+        if counter = (count and 1)
+            return
+        counter = counter + 1
+    else if pdm_pulse = 1
+        if counter = 0
+            return
+        counter = counter - 1
+    else
+        return
+
+
+function main:
+    while true:
+        run timer
+        run counter
+
+
+
+
+
+spørsmål:
+- hvilken burde jeg ta utgangspunkt i om jeg skal fortsette?
+- 
+
+
