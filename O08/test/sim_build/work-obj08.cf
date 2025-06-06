@@ -1,0 +1,46 @@
+v 4
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/system.vhd" "7c3433ecabace5faec56e4a80748f3b575ae2604" "20250403163809.981":
+  entity system at 1( 0) + 0 on 11;
+  architecture rtl of system at 19( 464) + 0 on 12;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/seg7ctrl.vhd" "c4f05c4aa90c79fb4b3a307581d9e1c6c9441432" "20250403163809.982":
+  entity seg7ctrl at 1( 0) + 0 on 33;
+  architecture rtl of seg7ctrl at 22( 568) + 0 on 34;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/quad.vhd" "a2a0bc854112e466ceb8bd8e601ef198d9e0f3b5" "20250403163809.982":
+  entity quad at 1( 0) + 0 on 27;
+  architecture rtl of quad at 13( 213) + 0 on 28;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/system_quad.vhd" "f126d468872ec0c679b1dff4632e62b487303b9a" "20250403163809.981":
+  entity system_quad at 1( 0) + 0 on 15;
+  architecture rtl of system_quad at 14( 285) + 0 on 16;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/input_synch.vhd" "826e74a3d63fe79e2940e6ffd2b3681f8b4ced2e" "20250403163809.982":
+  entity input_synch at 1( 0) + 0 on 25;
+  architecture rtl of input_synch at 13( 219) + 0 on 26;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/pdm.vhd" "316bdef7146e1cf3e2aa63550498fe3e2c877446" "20250403163809.982":
+  entity pdm at 1( 0) + 0 on 23;
+  architecture rtl of pdm at 14( 356) + 0 on 24;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/pwm2.vhd" "df7a2760e8fc37d22446f82718c5bb5557489636" "20250403163809.982":
+  entity pwm2 at 1( 0) + 0 on 19;
+  architecture rtl of pwm2 at 15( 285) + 0 on 20;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/pulse_width_modulator.vhd" "2bf0e5b7ea4e8d32c45cbb7d3abf2d7b15db42cb" "20250403163809.500":
+  entity pdm1 at 1( 0) + 0 on 4;
+  architecture rtl of pdm1 at 13( 290) + 0 on 4;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/velocity_reader.vhd" "7bd30bce05305422da5d9722b6afa76b716ed1eb" "20250403163809.982":
+  entity velocity_reader at 1( 0) + 0 on 29;
+  architecture rtl of velocity_reader at 20( 666) + 0 on 30;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/self_test.vhd" "ab8fbb3695e3c5f6ee7700fd83c7494ed189378d" "20250403163809.982":
+  entity self_test at 1( 0) + 0 on 17;
+  architecture synth of self_test at 26( 667) + 0 on 18;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/pwsim.vhd" "1cda73259ccc5231a9b68f3e974ad3a4e1755f87" "20250403163809.502":
+  entity pulse_width_modulator at 6( 187) + 0 on 4;
+  architecture behavioral of pulse_width_modulator at 18( 466) + 0 on 4;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/pwm.vhd" "1929672bdf7385a896e8af2a4de2f5c3b235c9d7" "20250403163809.501":
+  entity pwm at 1( 0) + 0 on 4;
+  architecture rtl of pwm at 14( 282) + 0 on 4;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/output_synch.vhd" "883d214e5fc8a93fbca54d5aafaa9529911b9684" "20250403163809.982":
+  entity output_synch at 1( 0) + 0 on 21;
+  architecture rtl of output_synch at 13( 240) + 0 on 22;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/system_test.vhd" "d9762aeb767350012b1d8f330e8941addb7237f2" "20250403163809.981":
+  entity system_test at 1( 0) + 0 on 13;
+  architecture structural of system_test at 19( 408) + 0 on 14;
+file / "/uio/hume/student-u28/fridatbe/IN3160/assignments/O08/test/../src/seg7_pkg.vhd" "bfb73bb631a3561fc4036f5106a8bcc8e967d5b0" "20250403163809.982":
+  package seg7_pkg at 2( 1) + 0 on 31 body;
+  package body seg7_pkg at 11( 243) + 0 on 32;
