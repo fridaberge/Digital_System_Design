@@ -1,0 +1,13 @@
+v 4
+file "/uio/hume/student-u28/fridatbe/IN3160/assignments/O04/test/" "../src/shift8.vhd" "0b90ef8648f9c073bbe5966bbf3e66afb5196713" "20250212120758.050":
+  entity shift8 at 1( 0) + 0 on 11;
+  architecture structural of shift8 at 15( 343) + 0 on 12;
+file "/uio/hume/student-u28/fridatbe/IN3160/assignments/O04/test/" "../src/dff.vhd" "c1ba484a7bb07b8fe4de5b10f8f04da65555f57e" "20250212132423.222":
+  entity dff at 1( 0) + 0 on 17;
+  architecture rtl of dff at 13( 238) + 0 on 18;
+file "/uio/hume/student-u28/fridatbe/IN3160/assignments/O04/test/" "../src/shift32.vhd" "5ec1f84b65d271fadb9e631c7ae5310f0e6eecc9" "20250212130307.447":
+  entity shift32 at 1( 0) + 0 on 13;
+  architecture structural of shift32 at 15( 346) + 0 on 14;
+file "/uio/hume/student-u28/fridatbe/IN3160/assignments/O04/test/" "../src/shiftn.vhd" "4707ecbca2c85ba47d35cc34babea28e1f7b58be" "20250212132423.222":
+  entity shiftn at 1( 0) + 0 on 15;
+  architecture structural of shiftn at 16( 375) + 0 on 16;
