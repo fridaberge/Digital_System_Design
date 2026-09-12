@@ -1,4 +1,4 @@
-# IN3160-DigSys
+# IN3160- Digital systemkonstruksjon / Digital System Design
 
 NORSK:
 Innleveringer i faget IN3160: Digital systemkonstruksjon fra UiO. Beskrivelse av faget fra UiO sin nettside: 
